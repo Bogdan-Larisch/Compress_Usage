@@ -3,7 +3,7 @@
 	Ala ma kota.<br>
 	
 <?php
-	print 'Kompresja'; 
+	print 'Kompresja<br>'; 
 ?>	
 </body>
 </html>

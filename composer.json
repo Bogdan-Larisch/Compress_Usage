@@ -1,0 +1,10 @@
+{
+    "name": "bogdan/compress",
+    "authors": [
+        {
+            "name": "Bogdan Larisch",
+            "email": "larisch@wp.pl"
+        }
+    ],
+    "require": {}
+}

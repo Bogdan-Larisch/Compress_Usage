@@ -1,10 +1,11 @@
 {
-    "name": "bogdan/compress",
+    "name": "bogdan/compress_usage",
     "authors": [
         {
             "name": "Bogdan Larisch",
             "email": "larisch@wp.pl"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
